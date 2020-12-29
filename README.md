@@ -1,2 +1,2 @@
 # React-Project
-Using React, Redux.
+Using ReactJs , Redux.
