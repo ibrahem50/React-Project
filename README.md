@@ -1,4 +1,4 @@
-Using ReactJS ,Redux
+Project using Reactjs ,Redux
 
 # Getting Started with Create React App
 
